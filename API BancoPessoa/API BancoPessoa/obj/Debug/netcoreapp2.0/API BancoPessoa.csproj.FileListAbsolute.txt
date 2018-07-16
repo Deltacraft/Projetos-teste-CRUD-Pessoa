@@ -1,0 +1,11 @@
+C:\Users\vilel\OneDrive\Estagio Não Remunerado\Projetos teste\API BancoPessoa\API BancoPessoa\bin\Debug\netcoreapp2.0\API BancoPessoa.deps.json
+C:\Users\vilel\OneDrive\Estagio Não Remunerado\Projetos teste\API BancoPessoa\API BancoPessoa\bin\Debug\netcoreapp2.0\API BancoPessoa.runtimeconfig.json
+C:\Users\vilel\OneDrive\Estagio Não Remunerado\Projetos teste\API BancoPessoa\API BancoPessoa\bin\Debug\netcoreapp2.0\API BancoPessoa.runtimeconfig.dev.json
+C:\Users\vilel\OneDrive\Estagio Não Remunerado\Projetos teste\API BancoPessoa\API BancoPessoa\bin\Debug\netcoreapp2.0\API BancoPessoa.dll
+C:\Users\vilel\OneDrive\Estagio Não Remunerado\Projetos teste\API BancoPessoa\API BancoPessoa\obj\Debug\netcoreapp2.0\API BancoPessoa.csprojAssemblyReference.cache
+C:\Users\vilel\OneDrive\Estagio Não Remunerado\Projetos teste\API BancoPessoa\API BancoPessoa\obj\Debug\netcoreapp2.0\API BancoPessoa.csproj.CoreCompileInputs.cache
+C:\Users\vilel\OneDrive\Estagio Não Remunerado\Projetos teste\API BancoPessoa\API BancoPessoa\obj\Debug\netcoreapp2.0\API BancoPessoa.AssemblyInfoInputs.cache
+C:\Users\vilel\OneDrive\Estagio Não Remunerado\Projetos teste\API BancoPessoa\API BancoPessoa\obj\Debug\netcoreapp2.0\API BancoPessoa.AssemblyInfo.cs
+C:\Users\vilel\OneDrive\Estagio Não Remunerado\Projetos teste\API BancoPessoa\API BancoPessoa\bin\Debug\netcoreapp2.0\API BancoPessoa.pdb
+C:\Users\vilel\OneDrive\Estagio Não Remunerado\Projetos teste\API BancoPessoa\API BancoPessoa\obj\Debug\netcoreapp2.0\API BancoPessoa.dll
+C:\Users\vilel\OneDrive\Estagio Não Remunerado\Projetos teste\API BancoPessoa\API BancoPessoa\obj\Debug\netcoreapp2.0\API BancoPessoa.pdb
